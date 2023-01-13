@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bastos
+- 🌆 I live in São Paulo, Brazil
+- 🐕 Zeca is my dog
+- 📺 I work for Plex.tv
+- 💻 I'm a software developer
+- 🐦 You can find me on [Twitter](http://twitter.com/bastos)
+- 👔 Also on [Linkedin](http://linkedin.com/in/tiagobastosdasilva)
