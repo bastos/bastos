@@ -5,3 +5,4 @@
 - 💻 I'm a software developer
 - 🐦 You can find me on [Twitter](http://twitter.com/bastos)
 - 👔 Also on [Linkedin](http://linkedin.com/in/tiagobastosdasilva)
+- Find more [here](https://bento.me/bastos)
