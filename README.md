@@ -5,5 +5,4 @@
 - 💻 I'm a software developer
 - 🐦 You can find me on [Twitter](http://twitter.com/bastos)
 - 👔 Also on [Linkedin](http://linkedin.com/in/tiagobastosdasilva)
-- 📨 [Send me a message](https://notionforms.io/forms/contact-144)
 - ℹ️ Find more [here](https://bento.me/bastos)
