@@ -3,4 +3,4 @@
 - 📺 I'm a Staff Software Engineer @ [Plex.tv](http://plex.tv)
 - 🐦 You can find me on [Twitter](http://twitter.com/bastos)
 - 👔 Also on [Linkedin](http://linkedin.com/in/tiagobastosdasilva)
-- ℹ️ Find more about me [here](https://bento.me/bastos)
+- ℹ️ Find more about me [here](https://bastos.dev)
